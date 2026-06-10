@@ -8,6 +8,8 @@
 
 > Uma plataforma web moderna, segura e escalável desenvolvida para revolucionar a administração e a rotina escolar da EMEF Humberto de Campos.
 
+🌐 **Deploy (Sistema Online):** [Acesse o protótipo funcional aqui](https://projeto-de-extensao-woad.vercel.app/)
+
 ---
 
 ## 📖 Sobre o Projeto
