@@ -52,7 +52,7 @@ O desenvolvimento deste software foi guiado por uma sólida base de Engenharia d
 
 Projeto idealizado e desenvolvido por:
 
-*   **Anthony Dias** - [GitHub](https://github.com/ZonyDS)
+*   **Anthony Dias Soares** - [GitHub](https://github.com/ZonyDS)
 *   **Arthur Gavassa** - [GitHub](https://github.com/ArthurGavassa) 
 *   **Victor Bacchetti** - [GitHub](https://github.com/VictorBacchetti) 
 
